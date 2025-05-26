@@ -1,4 +1,4 @@
-Jakarta EE: JSF + CDI + JPA + BV
-Ćwiczenie 1
+Ćwiczenie 3: Jakarta EE: JSF + CDI + JPA + BV
+
 Celem ćwiczenia jest utworzenie prostej aplikacji bazodanowej umożliwiającej przeglądanie
 i dodawanie żądań serwisowych.
